@@ -34,5 +34,20 @@
     "enzyme-adapter-react-16": "^1.1.1",
     "mocha": "^5.2.0",
     "sinon": "^6.1.0"
-  }
+  },
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randyher/react-events-crash-course-lab-dumbo-web-102918.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/randyher/react-events-crash-course-lab-dumbo-web-102918/issues"
+  },
+  "homepage": "https://github.com/randyher/react-events-crash-course-lab-dumbo-web-102918#readme"
 }
